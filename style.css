@@ -6,6 +6,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 :root{
     --color-primary:#6c63ff;
@@ -412,7 +413,7 @@ h2{
     }
     .categories__right{
         display: grid;
-        grid-template-columns: repeat(2,12.5rem);
+        grid-template-columns: repeat(2,12rem);
     }
     .footer .box-contain{
         display: grid;

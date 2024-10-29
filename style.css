@@ -31,7 +31,6 @@ body{
     line-height: 1.7;
     color: var(--color-black);
     background: var(--color-bg);
-    overflow-x: hidden;
 }
 .container{
     /* width: var(--container-width-lg); */

@@ -6,7 +6,6 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 :root{
     --color-primary:#6c63ff;
@@ -32,6 +31,7 @@ body{
     line-height: 1.7;
     color: var(--color-black);
     background: var(--color-bg);
+    overflow-x: hidden;
 }
 .container{
     /* width: var(--container-width-lg); */
@@ -413,7 +413,7 @@ h2{
     }
     .categories__right{
         display: grid;
-        grid-template-columns: repeat(2,12rem);
+        grid-template-columns: repeat(2,1fr);
     }
     .footer .box-contain{
         display: grid;

@@ -388,7 +388,7 @@ h2{
     }
     .nav_menu{
         position: absolute;
-        top: 110%; right: -110%;
+        top: 130%; right: -130%;
         width: 30rem;
         box-shadow: var(--box-shadow);
         background: #fff;

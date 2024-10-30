@@ -132,7 +132,7 @@ nav button{
 }
 .nav_menu.active{
     right: 2rem;
-    transition:  linear;
+    transition: .4s linear;
 }
 
 header{

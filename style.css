@@ -26,6 +26,12 @@
 
     --transistion:all 400ms ease;
 }
+html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 7rem;
+}
+
 body{
     font-family:'Poppins', sans-serif;
     line-height: 1.7;

@@ -412,7 +412,9 @@ h2{
     }
     .categories__right{
         display: grid;
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(1,20rem);
+        align-items: center;
+        justify-content: center;
     }
     .footer .box-contain{
         display: grid;

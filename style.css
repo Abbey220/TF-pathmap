@@ -357,9 +357,6 @@ h2{
  }
  
 @media(max-width:768px){
-    header{
-        height: 100vh;
-    }
     
     .header__container{
         grid-template-columns: 1fr;

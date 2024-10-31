@@ -413,7 +413,7 @@ h2{
     }
     .categories__right{
         display: grid;
-        grid-template-columns: repeat(1,20rem);
+        grid-template-columns: repeat(1,1fr);
         align-items: center;
         justify-content: center;
     }
